@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 81fac16e5bbb0ee4bad002d5bb422b7a, type: 3}
+  m_Name: WoodenArrow
+  m_EditorClassIdentifier: 
+  id: bdea885f8a28b424b856bc46c844b81b
+  name: WoodenArrow
+  icon: {fileID: 0}
+  descrip: 
+  MaximumStack: 999
+  meshInScene: {fileID: 2300000, guid: d5773532814e0b94394cb07d887b163b, type: 3}
+  isDefaultItem: 0
+  weaponSlot: 4
+  weaponType: 1
+  mesh: {fileID: 2300000, guid: d5773532814e0b94394cb07d887b163b, type: 3}
+  armorModifier: 0
+  damageModifer: 50
+  attackRangeModifer: 0
+  attackSpeedModifer: 0
